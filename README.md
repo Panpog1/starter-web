@@ -5,7 +5,7 @@ It does stuff
 
 ## Purpose
 
-Mine
+Mine(PJ's)
 
 ## Copyright
 PJ McDonough. All rights Reserved
