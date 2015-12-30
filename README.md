@@ -1,14 +1,14 @@
 # Starter Web Repo
 
-It is PJ's
-It does stuff
+It is PJ's.
+It does stuff.
 
 ## Purpose
 
 Mine(PJ's)
 
 ## Copyright
-PJ McDonough. All rights Reserved
+PJ McDonough. All rights Reserved.
 
 
 #HI!!!!!
