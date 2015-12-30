@@ -7,8 +7,8 @@ It does stuff
 
 Mine
 
-## OWNER
-PJ
+## Copyright
+PJ McDonough. All rights Reserved
 
 
 #HI!!!!!
