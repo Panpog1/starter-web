@@ -1,7 +1,7 @@
 # Starter Web Repo
 
-It is PJ's.
-It does stuff.
+It is PJ's!
+It does stuff!
 
 ## Purpose
 
